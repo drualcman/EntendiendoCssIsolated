@@ -1,0 +1,6 @@
+﻿.mi-clase {
+    font-size: 24px;
+}
+    .mi-clase ::deep .clase-hija {
+        opacity: 0.5
+    }
